@@ -1,0 +1,15 @@
+{
+  "filename": "y-71-_jpg.rf.566adc53f839db60f23ee2d7806636a1.jpg",
+  "detections": [
+    {
+      "label": "Wearing_Gloves",
+      "confidence": 0.791,
+      "bbox": [
+        365,
+        0,
+        639,
+        298
+      ]
+    }
+  ]
+}
